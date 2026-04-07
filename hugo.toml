@@ -1,4 +1,4 @@
-baseURL = 'https://hzanoli.github.io/'
+baseURL = 'https://work.zanoli.xyz/'
 languageCode = 'en-us'
 title = 'Henrique Zanoli'
 theme = 'bold'
@@ -38,6 +38,8 @@ theme = 'bold'
 [params]
   logoPrefix = 'HENRIQUE'
   logoAccent = 'ZANOLI'
+
+  mainColor = 'var(--sage)'
 
   [params.hero]
     line1 = 'MAKING'
