@@ -39,6 +39,7 @@ title = 'Henrique Zanoli'
   logoAccent = 'ZANOLI'
   fullName = 'Henrique José Correia Zanoli'
   alternateName = 'Henrique Zanoli'
+  goatcounter = 'zanoli'
 
   [params.hero]
     line1 = 'MAKING'
